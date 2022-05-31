@@ -1,0 +1,9 @@
+export {default as home} from './home';
+export {default as auth} from './auth';
+export {default as app} from './app';
+export {default as faq} from './faq';
+export {default as profile} from './profile';
+export {default as wallet} from './wallet';
+export {default as cart} from './cart';
+export {default as share} from './share';
+export {default as policies} from './policies';
